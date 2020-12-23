@@ -1,5 +1,5 @@
+import Setup from './tutorial/12-memo-useMemo-useCallback/setup/index';
 import React from 'react';
-import Setup from './tutorial/8-useContext/setup/1-context-api';
 
 function App() {
   return (
